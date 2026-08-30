@@ -38,4 +38,4 @@ The objective of this task is to analyze business sales data to identify:
 
 ## Project Status
 
-🚧 In Progress
+Completed
