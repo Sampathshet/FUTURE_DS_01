@@ -7,7 +7,7 @@
 This project is part of Task 1 of the Future Interns Data Science & Analytics Internship.
 ## Project Dashboard
 
-![Sales Data Analysis Dashboard](images/Task1.jpeg)
+![Sales Data Analysis Dashboard](images/task1.jpeg)
 ## Objective
 
 The objective of this task is to analyze business sales data to identify:
